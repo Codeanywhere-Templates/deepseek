@@ -1,6 +1,6 @@
 [![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/deepseek)
 
-This is a template project for OpenAI applications in [Codeanywhere](https://codeanywhere.com/). [Try it out](https://app.codeanywhere.com/#https://github.com/codeanywhere-templates/deepseek)
+This is a template project for Deepseek applications in [Codeanywhere](https://codeanywhere.com/). [Try it out](https://app.codeanywhere.com/#https://github.com/codeanywhere-templates/deepseek)
 
 ## Getting Started
 
@@ -65,9 +65,9 @@ python samples/deepseek-content-creator.py "Summer Sale" --type email --tone per
 
 ## Learn More
 
-To learn more about OpenAI, take a look at the following resources:
+To learn more about Deepseek, take a look at the following resources:
 
-- [Deepseek Documentation](https://platform.deepseek.com) - learn about OpenAI features and API
+- [Deepseek Documentation](https://platform.deepseek.com) - learn about Deepseek features and API
 - [API Reference](https://api-docs.deepseek.com/) - detailed API documentation
 
 
